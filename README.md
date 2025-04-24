@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi there! I'm Mishchenko Sergey (aka serbekun)
 
-<!--
-**serbekun/serbekun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎒 I'm 13 years old and currently studying at Kukizaki Juniar Hight School.  
+💻 I'm passionate about programming and building real-world projects.
 
-Here are some ideas to get you started:
+## 🧠 What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💾 C / C++ — working with memory, file systems, and data structures  
+- 🐍 Python — building AI, neural networks, and small games  
+- 🛠️ Bash — writing scripts to automate things  
+- 💡 Learning algorithms, low-level code, and system programming
+
+## 🌍 Languages I speak
+
+- 🇷🇺 Russian — native  
+- 🇯🇵 Japanese — fluent  
+- 🇺🇸 English — learning and improving every day
+
+## 🚀 Projects
+
+- 🧠 [`Variable Battle AI`](https://github.com/serbekun/Variable-Battle) — a neural network that learns to play a text-based strategy game  
+- 📁 [`basic_file`](https://github.com/serbekun/basic_file) — a simple and reusable C++ file class  
+- ⚙️ [More repositories here](https://github.com/serbekun?tab=repositories)
+
+## 🌱 Goals
+
+- Improve my programming skills through real coding challenges  
+- Compete in programming contests and hackathons  
+- Create tools, games, and libraries that others can use  
+- Learn more about open-source culture
+
+## 🤝 I'd love to contribute!
+
+I'm really interested in participating in open-source projects.  
+If you're looking for a junior contributor — especially for C, C++, or Python code — feel free to reach out!
+
+## 📫 How to reach me
+
+You can open an Issue or Discussion in one of my repositories.  
+I'm always open to learning, collaboration, and cool ideas!
