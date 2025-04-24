@@ -14,7 +14,7 @@
 
 - 🇷🇺 Russian — native  
 - 🇯🇵 Japanese — fluent  
-- 🇺🇸 English — learning and improving every day
+- 🇬🇧/🇺🇸 English — learning and improving every day
 
 ## 🚀 Projects
 
