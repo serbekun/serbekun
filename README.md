@@ -38,3 +38,4 @@ If you're looking for a junior contributor — especially for C, C++, or Python 
 
 You can open an Issue or Discussion in one of my repositories.  
 I'm always open to learning, collaboration, and cool ideas!
+or gmail ```sergey994049@gmail.com```
