@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konnokai&theme=tokyonight&locale=zh-tw)
+
 # 👋 Hi there! I'm Mishchenko Sergey (aka serbekun)
 
 🎒 I'm 13 years old and currently studying at Kukizaki Juniar Hight School.  
