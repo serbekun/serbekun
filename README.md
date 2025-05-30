@@ -1,4 +1,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&theme=tokyonight)
+![konnokai's GitHub stats](https://github-readme-stats.vercel.app/api?username=konnokai&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 # 👋 Hi there! I'm Mishchenko Sergey (aka serbekun)
 
