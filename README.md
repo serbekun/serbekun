@@ -9,9 +9,8 @@
 
 ## 🧠 What I do
 
-- 💾 C / C++ — working with memory, file systems, and data structures  
-- 🐍 Python — building AI, neural networks, and small games  
-- 🛠️ Bash — writing scripts to automate things  
+- 💾 C / C++ — working with memory, file systems, and data structures, aloritms 
+- 🐍 Python — building AI, neural networks, and small games 
 - 💡 Learning algorithms, low-level code, and system programming
 
 ## 🌍 Languages I speak
