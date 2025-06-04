@@ -1,44 +1,43 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&theme=tokyonight&hide=gnuplot,fortran)
-![konnokai's GitHub stats](https://github-readme-stats.vercel.app/api?username=serbekun&show_icons=true&theme=tokyonight&include_all_commits=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=serbekun&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&layout=compact)
+![konnokai's GitHub stats](https://github-readme-stats.vercel.app/api?username=serbekun&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=serbekun)
 
 # 👋 Hi there! I'm Mishchenko Sergey (aka serbekun)
 
-🎒 I'm 13 years old and currently studying at Kukizaki Juniar Hight School.  
+🎒 I'm 13 years old and currently studying at Kukizaki Junior High School.  
 💻 I'm passionate about programming and building real-world projects.
 
-## 🧠 What I do
+## 🧠 What I Do
 
-- 💾 C / C++ — working with memory, file systems, and data structures, aloritms 
-- 🐍 Python — building AI, neural networks, and small games 
-- 💡 Learning algorithms, low-level code, and system programming
+- 💾 **C / C++** — working with memory, file systems, data structures, and algorithms  
+- 🐍 **Python** — building AI, neural networks, and small games  
+- 💡 Learning algorithms, low-level code, and system programming  
 
-## 🌍 Languages I speak
+## 🌍 Languages I Speak
 
-- 🇷🇺 Russian — native  
-- 🇯🇵 Japanese — fluent  
-- 🇬🇧/🇺🇸 English — learning and improving every day
+- 🇷🇺 **Russian** — native  
+- 🇯🇵 **Japanese** — fluent  
+- 🇬🇧 **English** — learning and improving every day  
 
 ## 🚀 Projects
 
-- 🧠 [`Variable Battle AI`](https://github.com/serbekun/Variable-Battle) — a neural network that learns to play a text-based strategy game  
-- 📁 [`basic_file`](https://github.com/serbekun/basic_file) — a simple and reusable C++ file class  
-- ⚙️ [More repositories here](https://github.com/serbekun?tab=repositories)
+- 🧠 [**Variable Battle AI**](https://github.com/serbekun/Variable-Battle) — a neural network that learns to play a text-based strategy game  
+- 📁 [**basic_file**](https://github.com/serbekun/basic_file) — a simple and reusable C++ file class  
+- ⚙️ [More repositories here](https://github.com/serbekun?tab=repositories)  
 
 ## 🌱 Goals
 
 - Improve my programming skills through real coding challenges  
 - Compete in programming contests and hackathons  
 - Create tools, games, and libraries that others can use  
-- Learn more about open-source culture
+- Learn more about open-source culture  
 
-## 🤝 I'd love to contribute!
+## 🤝 I'd Love to Contribute!
 
-I'm really interested in participating in open-source projects.  
-If you're looking for a junior contributor — especially for C, C++, or Python code — feel free to reach out!
+I'm very interested in participating in open-source projects.  
+If you're looking for a junior contributor — especially for C, C++, or Python — feel free to reach out!
 
-## 📫 How to reach me
+## 📫 How to Reach Me
 
-You can open an Issue or Discussion in one of my repositories.  
-I'm always open to learning, collaboration, and cool ideas!
-or gmail ```sergey994049@gmail.com```
+- You can open an issue or start a discussion in one of my repositories  
+- 📧 Email: **sergey994049@gmail.com**
