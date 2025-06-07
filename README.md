@@ -21,7 +21,7 @@
 
 ## 🚀 Projects
 
-- 🧠 [**Variable Battle AI**](https://github.com/serbekun/Variable-Battle) — a neural network that learns to play a text-based strategy game  
+- 🧠 [**cloude_classification_ai_model**](https://github.com/serbekun/cloude_classification_ai_model) — a neural network that classificate clouds
 - 📁 [**basic_file**](https://github.com/serbekun/basic_file) — a simple and reusable C++ file class  
 - ⚙️ [More repositories here](https://github.com/serbekun?tab=repositories)  
 
