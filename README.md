@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&theme=tokyonight&hide=fortran&lang_count=50)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&theme=tokyonight&hide=fortran,gnuplot,shell,html&lang_count=50)
 ![konnokai's GitHub stats](https://github-readme-stats.vercel.app/api?username=serbekun&show_icons=true&theme=tokyonight&include_all_commits=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=serbekun&theme=tokyonight)
 
