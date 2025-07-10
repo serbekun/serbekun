@@ -1,6 +1,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&theme=tokyonight&hide=html,shell,gnuplot,fortran,css&lang_count=50)
 ![konnokai's GitHub stats](https://github-readme-stats.vercel.app/api?username=serbekun&show_icons=true&theme=tokyonight&include_all_commits=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=serbekun&theme=tokyonight)
+[![commit-graf](https://github‑readme‑activity‑graph.vercel.app/graph?username=serbekune&theme=github-compact)](https://github.com/serbekun/github-readme-activity-graph)
+
 
 # 👋 Hi there! I'm Mishchenko Sergey (aka serbekun)
 
