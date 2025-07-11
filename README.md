@@ -12,7 +12,7 @@
 ## 🧠 What I Do
 
 - 💾 **C / C++** — working with memory, file systems, data structures, and algorithms  
-- 🐍 **Python** — building AI, neural networks, and small games  
+- 🐍 **Python** — building AI, neural networks
 - 💡 Learning algorithms, low-level code, and system programming  
 
 ## 🌍 Languages I Speak
