@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&theme=tokyonight&hide=html,shell,gnuplot,fortran,css&lang_count=50)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&theme=tokyonight&hide=html,shell,gnuplot,fortran,json.css&lang_count=50)
 ![konnokai's GitHub stats](https://github-readme-stats.vercel.app/api?username=serbekun&show_icons=true&theme=tokyonight&include_all_commits=true)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=serbekun&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
