@@ -12,6 +12,7 @@
 
 - 💾 **C / C++** — working with memory, file systems, data structures, and algorithms  
 - 🐍 **Python** — building AI, neural networks
+- **JS** — create website logic
 - 💡 Learning algorithms, low-level code, and system programming  
 
 ## 🌍 Languages I Speak
@@ -23,7 +24,7 @@
 ## 🚀 Projects
 
 - 🧠 [**cloude_classification_ai_model**](https://github.com/serbekun/cloude_classification_ai_model) — a neural network that classificate clouds
-- 📁 [**algorithms**](https://github.com/serbekun/algorithms) — contains a collection of algorithm implementations in C, C++, Fortran, Python  
+- 📁 [**algorithms**](https://github.com/serbekun/algorithms) — contains a collection of algorithm implementations in C, C++, Fortran, Python
 - ⚙️ [More repositories here](https://github.com/serbekun?tab=repositories)  
 
 ## 🌱 Goals
