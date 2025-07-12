@@ -1,5 +1,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&theme=tokyonight&hide=html,shell,gnuplot,fortran,json.css&lang_count=50)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serbekun&show_icons=true&theme=tokyo-night)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=serbekun&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
