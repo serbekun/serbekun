@@ -13,7 +13,7 @@
 - 💾 **C / C++** — working with memory, file systems, data structures, and algorithms  
 - 🐍 **Python** — building AI, neural networks
 - **JS** — create website logic
-- 💡 Learning algorithms, low-level code, and system programming  
+- 💡 Learning algorithms, low-level code, and AI 
 
 ## 🌍 Languages I Speak
 
