@@ -1,5 +1,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&theme=transparent&hide=html,css,fortran&lang_count=50)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=serbekun&theme=transparent)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=serbekun&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
