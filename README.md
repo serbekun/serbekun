@@ -22,6 +22,7 @@
 ## 🚀 Projects
 
 - 📁 [**algorithms**](https://github.com/serbekun/algorithms) — contains a collection of algorithm implementations in C
+- 🧠 [**CCAiM**](https://github.com/serbekun/CCAiM) — AI model for classification clouds classes.
 - ⚙️ [More repositories here](https://github.com/serbekun?tab=repositories)  
 
 ## 🌱 Goals
