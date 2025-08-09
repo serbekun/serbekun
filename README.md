@@ -1,8 +1,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&theme=transparent&hide=html,css,fortran,json&lang_count=50)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=serbekun&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
 # 👋 Hi there! I'm Mishchenko Sergey (aka serbekun)
 
 🎒 I'm 13 years old and currently studying at Kukizaki Junior High School.  
