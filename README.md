@@ -7,21 +7,23 @@
 
 ## 🧠 What I Do
 
-- 💾 **C / C++** — working with memory, file systems, data structures, and algorithms  
-- 🐍 **Python** — building AI, neural networks
-- **JS** — create website logic
-- 💡 Learning algorithms, low-level code, and AI 
+- 💾 **C / C++** - working with memory, file systems, data structures, and algorithms  
+- 🐍 **Python** - building AI, neural networks
+- 🦀 **Rust** - making encryption program 
+- **JS** - create website logic
+- 💡 Learning algorithms, low-level code, еncryption, and AI 
 
 ## 🌍 Languages I Speak
 
-- 🇷🇺 **Russian** — native  
-- 🇯🇵 **Japanese** — fluent  
-- 🇬🇧 **English** — learning and improving every day  
+- 🇷🇺 **Russian** - native  
+- 🇯🇵 **Japanese** - fluent  
+- 🇬🇧 **English** - learning and improving every day  
 
 ## 🚀 Projects
 
-- 📁 [**algorithms**](https://github.com/serbekun/algorithms) — contains a collection of algorithm implementations in C
-- 🧠 [**CCAiM**](https://github.com/serbekun/CCAiM) — AI model for classification clouds classes.
+- 📁 [**algorithms**](https://github.com/serbekun/algorithms) - contains a collection of algorithm implementations in C.
+- 🧠 [**CCAiM**](https://github.com/serbekun/CCAiM) - AI model for classification clouds classes.
+- 🔐 [[**KeyForge**]](https://github.com/serbekun/KeyForge) - CLI program for encode decode data generate hashs.
 - ⚙️ [More repositories here](https://github.com/serbekun?tab=repositories)  
 
 ## 🌱 Goals
@@ -34,7 +36,7 @@
 ## 🤝 I'd Love to Contribute!
 
 I'm very interested in participating in open-source projects.  
-If you're looking for a junior contributor — especially for C, C++, or Python — feel free to reach out!
+If you're looking for a junior contributor - especially for C, C++, or Python - feel free to reach out!
 
 ## 📫 How to Reach Me
 
