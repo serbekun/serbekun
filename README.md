@@ -23,7 +23,7 @@
 
 - 📁 [**algorithms**](https://github.com/serbekun/algorithms) - contains a collection of algorithm implementations in C.
 - 🧠 [**CCAiM**](https://github.com/serbekun/CCAiM) - AI model for classification clouds classes.
-- 🔐 [[**KeyForge**]](https://github.com/serbekun/KeyForge) - CLI program for encode decode data generate hashs.
+- 🔐 [**KeyForge**](https://github.com/serbekun/KeyForge) - CLI program for encode decode data generate hashs.
 - ⚙️ [More repositories here](https://github.com/serbekun?tab=repositories)  
 
 ## 🌱 Goals
