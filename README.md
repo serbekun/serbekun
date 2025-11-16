@@ -8,9 +8,9 @@
 ## 🧠 What I Do
 
 - 💾 **C / C++** - working with memory, file systems, data structures, and algorithms  
-- 🐍 **Python** - building AI, neural networks
-- 🦀 **Rust** - making encryption program 
-- **JS** - create website logic
+- 🐍 **Python** - building AI, neural networks, Servers backend
+- 🦀 **Rust** - making encryption program, Create http client
+- **JS** - create website logic adn frontend
 - 💡 Learning algorithms, low-level code, еncryption, and AI 
 
 ## 🌍 Languages I Speak
