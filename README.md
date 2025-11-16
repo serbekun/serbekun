@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&theme=transparent&hide=html,css,fortran,jsojso1&lang_count=50)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&theme=transparent&hide=html,css,fortran,jsojаso1&lang_count=50)
 
 # 👋 Hi there! I'm Mishchenko Sergey (aka serbekun)
 
