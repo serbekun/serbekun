@@ -1,5 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&theme=transparent&hide=html,css,fortran,jsojаso1&lang_count=50)
-
 # 👋 Hi there! I'm Mishchenko Sergey (aka serbekun)
 
 🎒 I'm 13 years old and currently studying at Kukizaki Junior High School.  
