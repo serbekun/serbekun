@@ -10,7 +10,8 @@
 - 💾 **C / C++** - working with memory, file systems, data structures, and algorithms  
 - 🐍 **Python** - building AI, neural networks, Servers backend
 - 🦀 **Rust** - making encryption program, Create http client
-- **JS** - create website logic adn frontend
+- **JS** - create website logic and frontend
+- **♨️** - create backend
 - 💡 Learning algorithms, low-level code, еncryption, and AI 
 
 ## 🌍 Languages I Speak
