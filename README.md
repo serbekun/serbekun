@@ -1,45 +1,31 @@
-# 👋 Hi there! I'm Mishchenko Sergey (aka serbekun)
+# Mishchenko Sergey (serbekun)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&layout=compact&hide=html,css&theme=github_dark" />
+14, school. Live in Japan, write code. Started with Batch scripts in a school computer
+lab, now I run a homelab of Arch Linux servers and build stuff in Rust, C, and Java.
 
-🎒 I'm 14 years old and currently studying at Kukizaki Junior High School.  
-💻 I'm passionate about programming and building real-world projects.
+## Stack
 
-## 🧠 What I Do
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&layout=compact&hide=html,css,newhideforupdategraf&theme=github_dark" />
 
-- 💾 **C / C++** - working with memory, file systems, data structures, and algorithms  
-- 🐍 **Python** - building AI, neural networks, Servers backend
-- 🦀 **Rust** - making encryption program, Create http client
-- **JS** - create website logic and frontend
-- **♨️** - create backend
-- 💡 Learning algorithms, low-level code, еncryption, and AI 
+- Rust — CLI tools, TUI, systems-level
+- C / C++ — algorithms, memory, low-level
+- Java (Javalin) — backend services, REST APIs
+- Python — scripting, glue code, prototyping
+- Arch Linux — my daily driver and server OS
+- nginx, ssh, tmux, git — the daily toolkit
 
-## 🌍 Languages I Speak
+## Infrastructure
 
-- 🇷🇺 **Russian** - native  
-- 🇯🇵 **Japanese** - fluent  
-- 🇬🇧 **English** - learning and improving every day  
+I manage a network of Linux machines from a school dynabook. Five SSH hosts,
+a Minecraft server for  friend, a Java backends like serbekun_services, and a personal domain at
+serbekun.com. Everything runs on Arch except the reverse proxy server DMZ.
 
-## 🚀 Projects
+## Projects
 
-- 📁 [**algorithms**](https://github.com/serbekun/algorithms) - contains a collection of algorithm implementations in C.
-- 🧠 [**CCAiM**](https://github.com/serbekun/CCAiM) - AI model for classification clouds classes.
-- 🔐 [**KeyForge**](https://github.com/serbekun/KeyForge) - CLI program for encode decode data generate hashs.
-- ⚙️ [More repositories here](https://github.com/serbekun?tab=repositories)  
+- [serbekun.com](https://serbekun.com) — personal link-card in terminal style
+- [KeyForge](https://github.com/serbekun/KeyForge) — Rust CLI for data generation, encoding, scripting
+- [llm_search_engine](https://github.com/serbekun/llm_search_engine) — Java search engine using LLM structured outputs
 
-## 🌱 Goals
+## Contact
 
-- Improve my programming skills through real coding challenges  
-- Compete in programming contests and hackathons  
-- Create tools, games, and libraries that others can use  
-- Learn more about open-source culture  
-
-## 🤝 I'd Love to Contribute!
-
-I'm very interested in participating in open-source projects.  
-If you're looking for a junior contributor - especially for C, C++, or Python - feel free to reach out!
-
-## 📫 How to Reach Me
-
-- You can open an issue or start a discussion in one of my repositories  
-- 📧 Email: **sergey994049@gmail.com**
+- Email: sergey994049@gmail.com
