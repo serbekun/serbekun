@@ -5,7 +5,7 @@ lab, now I run a homelab of Arch Linux servers and build stuff in Rust, C, and J
 
 ## Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&layout=compact&hide=html,css,newhideforupdategraf&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&layout=compact&hide=html,css,ncewhideforupdategraf&theme=github_dark"/>
 
 - Rust — CLI tools, TUI, systems-level
 - C / C++ — algorithms, memory, low-level
