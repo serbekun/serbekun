@@ -29,4 +29,4 @@ serbekun.com. Everything runs on Arch except the reverse proxy server DMZ.
 
 ## Contact
 
-- Email: sergey994049@gmail.com
+- Email: serbekun@gmail.com
