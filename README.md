@@ -1,7 +1,7 @@
 # Mishchenko Sergey (serbekun)
 
-14, school. Live in Japan, write code. Started with Batch scripts in a school computer
-lab, now I run a homelab of Arch Linux servers and build stuff in Rust, C, and Java.
+14 age old, Live in Japan, write code. Started with Batch scripts in a school computer.
+Now I run a homelab of Arch Linux servers for fun and build stuff in Rust, C, and Java.
 
 ## Stack
 
@@ -23,10 +23,7 @@ serbekun.com. Everything runs on Arch except the reverse proxy server DMZ.
 ## Projects
 
 - [serbekun.com](https://serbekun.com) - personal link-card in terminal style.
-- [serbekun_services](https://github.com/serbekun/serbekun_services) - server that privide many difference tools.
-- [KeyForge](https://github.com/serbekun/KeyForge) - Rust CLI for data generation, encoding, scripting.
-- [llm_search_engine](https://github.com/serbekun/llm_search_engine) - Java search engine using LLM structured outputs.
-
-## Contact
+- [serbekun_services](https://github.com/serbekun/serbekun_services) - server that provide many difference tools.
+- [CCAiM](https://github.com/serbekun/CCAiM) - Cloud Classification AI Model.
 
 - Email: serbekun@gmail.com
