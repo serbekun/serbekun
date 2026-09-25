@@ -16,7 +16,7 @@ Now I run a homelab of Arch Linux servers for fun and build stuff in Rust, C, an
 
 ## Infrastructure
 
-I manage a network of Linux machines from a school dynabook. Five SSH hosts,
+I manage a network of Linux machines. Five SSH hosts,
 a Minecraft server for  friend, a Java backends like serbekun_services, and a personal domain at
 serbekun.com. Everything runs on Arch except the reverse proxy server DMZ.
 
