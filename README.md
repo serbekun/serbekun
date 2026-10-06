@@ -1,11 +1,11 @@
 # Mishchenko Sergey (serbekun)
 
 14 age old, Live in Japan, write code. Started with Batch scripts in a school computer.
-Now I run a homelab of Arch Linux servers for fun and build stuff in Rust, C, and Java.
+Now I run a homelab of Arch Linux servers for fun and build stuff in Java and Rust.
 
 ## Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&layout=compact&hide=html,css,ncewhideforupdategraf&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&layout=compact&hide=html,css,ncewhideforupdategraf2&theme=github_dark"/>
 
 - Java (Javalin) - backend services, REST APIs.
 - Rust - CLI tools, TUI, systems-level.
@@ -16,7 +16,7 @@ Now I run a homelab of Arch Linux servers for fun and build stuff in Rust, C, an
 ## Infrastructure
 
 I manage a network of Linux machines. Five SSH hosts,
-a Minecraft server for  friend, a Java backends like serbekun_services, and a personal domain at
+a Minecraft server for friend, a Java backends like serbekun_services, and a personal domain at
 serbekun.com. Everything runs on Arch except the reverse proxy server DMZ.
 
 ## Projects
