@@ -5,7 +5,7 @@ Now I run a homelab of Arch Linux servers for fun and build stuff in Java and Ru
 
 ## Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&layout=compact&hide=html,css,ncewhideforupdategraf2&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&layout=compact&hide=html,css,updategraf0&theme=github_dark"/>
 
 - Java (Javalin) - backend services, REST APIs.
 - Rust - CLI tools, TUI, systems-level.
