@@ -1,26 +1,42 @@
 # Mishchenko Sergey (serbekun)
 
-I’m 14 and live in Japan. I write code as a hobby. I got my start with Batch scripts on a school computer. These days I run a homelab of Arch Linux servers for fun and build things in Java and Rust.
+14, live in Japan. I write code because I want a specific tool and either nobody built it
+or I had a search skill issue.
+Started with Batch scripts on a school computer. Now it is mostly Java, Rust and Python,
+plus a homelab that I break more often than I fix.
+
 ## Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&layout=compact&hide=html,,css,c%2B%2B,shell,c,gnuplot,lua&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&layout=compact&hide=html,css,shell,c,c%2B%2B,gnuplot,lua&theme=transparent"/>
 
-- **Java (Javalin)** — backend services and REST APIs.
-- **Rust** — CLI tools, TUIs, and systems-level work.
-- **Python** — scripting and ML.
-- **Arch Linux** — my daily OS on both my laptop and servers.
-- **nginx, SSH, tmux, git** — the tools I use every day.
+- **Java + Javalin** — backends and REST APIs.
+- **Rust** — CLI tools, TUIs, anything where the binary matters.
+- **Python** — scripts and ML, mostly data work.
+- **Arch Linux** — laptop and servers. Ubuntu only where I have no choice: the DMZ proxy and WSL.
+- **nginx, SSH, tmux, git** — used daily, not a "skills" list.
 
 ## Infrastructure
 
-I manage a small network of Linux machines: five SSH hosts, a Minecraft server for a friend, Java backends like `serbekun_services`, and my personal domain at serbekun.com. Everything runs on Arch except the reverse proxy server in the DMZ.
+A small home network, all reachable over SSH:
+
+- `dmz` — Ubuntu Server. nginx, Java services, 80/443. Public entry point.
+- `node2` — Arch laptop. Where I actually write code.
+- `node3` — main Arch server. CPU is nice relative to my other CPUs, GPU is a Quadro P2200.
+  Where I train CCAiM and run the Minecraft server for friends.
+- A Windows box with WSL — for the things that refuse to run on Linux.
+
+Domain: serbekun.com. Repos also live on a private git-shell host, not only on GitHub.
 
 ## Projects
 
-A few of my favorite projects:
+- [serbekun_services](https://github.com/serbekun/serbekun_services) — Javalin API toolbox:
+  hashing, Base64/hex/URL encoding, AES/RSA/hybrid encryption, UUID/ULID, short links with QR,
+  burn-after-reading links, JSON format/diff.
+- [CCAiM](https://github.com/serbekun/CCAiM) — cloud type classifier from ground photos,
+  10 WMO classes. Current ResNet18: 50.34% validation accuracy, macro-F1 0.390 on 916 labelled
+  images. Small unbalanced dataset, honest baseline, no leaderboard claims. Dataset and weights
+  on Hugging Face.
+- [serbekun.com](https://serbekun.com) — terminal-style link card. Static, no framework,
+  no reason for one.
 
-- [serbekun.com](https://serbekun.com) — a personal link-card in terminal style.
-- [serbekun_services](https://github.com/serbekun/serbekun_services) — a server that provides a bunch of different tools.
-- [CCAiM](https://github.com/serbekun/CCAiM) — Cloud Classification AI Model.
-
-- Email: serbekun@gmail.com
+Email: serbekun@gmail.com
