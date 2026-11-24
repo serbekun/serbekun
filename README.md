@@ -3,7 +3,7 @@
 I’m 14 and live in Japan. I write code as a hobby. I got my start with Batch scripts on a school computer. These days I run a homelab of Arch Linux servers for fun and build things in Java and Rust.
 ## Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&layout=compact&hide=html,css,updategraf0&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serbekun&layout=compact&hide=html,,css,c%2B%2B,shell,c,gnuplot,lua&theme=transparent"/>
 
 - **Java (Javalin)** — backend services and REST APIs.
 - **Rust** — CLI tools, TUIs, and systems-level work.
